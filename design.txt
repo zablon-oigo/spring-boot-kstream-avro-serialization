@@ -1,0 +1,5 @@
+- Real-Time Stock Aggregation(Windowed)
+- Low Stock Detection (Real-time alerting)
+- Top Selling Products (Leaderboard)
+- Real-Time Inventory Projection(KTable)
+
